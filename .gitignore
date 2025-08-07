@@ -1,0 +1,23 @@
+# Entorno virtual
+env/
+__pycache__/
+
+# Carpeta de compilación y distribución de PyInstaller
+build/
+dist/
+
+# Archivos de PyInstaller
+*.spec
+*.exe
+*.pkg
+*.zip
+
+# Base de datos local
+bonuza.db
+
+# PDFs de muestra o reportes
+*.pdf
+
+# Archivos de sistema o imágenes temporales
+*.jpeg
+*.png
